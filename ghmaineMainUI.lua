@@ -4282,7 +4282,7 @@ buttons.Button2.MouseButton1Click:Connect(function()
     end)
 
 
-
+GrantAccess()
 
 function whitelist()
     local username = game.Players.LocalPlayer.Name
