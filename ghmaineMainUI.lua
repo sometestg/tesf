@@ -4493,7 +4493,7 @@ textbox.FocusLost:Connect(function()
     local random = math.random(0, 10000)
     local randomname = "ImageCache/image"..tostring(random)..".png"
     pcall(function()
-        writefile(randomname, game:HttpGet("https://scriptblox.com" .. script.game.imageUrl))
+        --writefile(randomname, game:HttpGet("https://scriptblox.com" .. script.game.imageUrl))
         end)
     wait(0.1)
 
