@@ -4767,7 +4767,7 @@ local uilib = require(script.Parent.Parent.Parent.Parent.UILibrary)
 task.spawn(function()
     while true do
     task.wait(10)
-    uilib:SetCurrentSuggestionScript("INFINITE YIELD", "An admin script dedicated to provide the necessities of exploiting", "ScriptHere")
+    uilib:SetCurrentSuggestionScript("INFINITE YIELD", "An admin script dedicated to provide the necessities of exploiting", "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()")
     end
     end)
 
