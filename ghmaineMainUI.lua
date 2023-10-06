@@ -20,8 +20,8 @@ getgenv().readclipboard_hideenv = nil
 
 local DELTA = {};
 
-if game.CoreGui:FindFirstChild("FluxusAndroidUI") then
-    game.CoreGui:FindFirstChild("FluxusAndroidUI"):Destroy()
+if gethui():FindFirstChild("DeltaGui") then
+    gethui():FindFirstChild("DeltaGui"):Destroy()
 end
 
 -- StarterGui.Delta
