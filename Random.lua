@@ -1,4 +1,4 @@
-{
+getgenv().Random = {
 	"escreamnice",
 	"thepatrickstarss"
 }
