@@ -4,5 +4,5 @@ getgenv().Random = {
 	"Wagers07",
 	"LGNEUTRO",
 	"nikhilsinght",
-	"yeahboii4432"
+	"Yeahboii4432"
 }
