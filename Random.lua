@@ -3,7 +3,7 @@ getgenv().Random = {
 	"thepatrickstarss",
 	"Wagers07",
 	"LGNEUTRO",
-	"nikhilsinght"
-	"Yeahboii4432"
-	"Yessus_s",
+	"nikhilsinght",
+	"Yeahboii4432",
+	"Yessus_s"
 }
