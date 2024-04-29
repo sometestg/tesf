@@ -12,5 +12,5 @@ getgenv().Random = {
 	"YourLocalFriend_285",
 	"cychle64",
 	"FwVent",
-	"Wibublok"
+	"wibublok"
 }
