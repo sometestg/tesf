@@ -15,5 +15,6 @@ getgenv().Random = {
 	"wibublok",
 	"olidragon210",
 	"goginvanyok",
-	"Gianquepro12"
+	"Gianquepro12",
+	"thechoosenone_plate"
 }
