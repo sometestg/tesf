@@ -24,5 +24,7 @@ getgenv().Random = {
 	"opqroi127",
 	"grantnoob123",
 	"Denis911115",
-	"kkevin107521"
+	"kkevin107521",
+	"eeerte_1",
+	"A81086R"
 }
