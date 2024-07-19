@@ -37,5 +37,6 @@ getgenv().Random = {
 	"GORYLICH",
 	"hivakukh",
 	"LosingPast",
-	"GroovyDoimnoes53"
+	"GroovyDoimnoes53",
+	"KingBee21th"
 }
